@@ -1,0 +1,11 @@
+.DS_Store
+*.bak
+*.pyc
+rest/api/*.pyc
+.idea/*
+rest_api/venv/*
+$*.*
+rest_api/build/*
+rest_api/rest_api/*
+*.c
+*.so
